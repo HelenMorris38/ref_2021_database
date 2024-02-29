@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ref_2021_database;
+CREATE DATABASE ref_2021_database;
