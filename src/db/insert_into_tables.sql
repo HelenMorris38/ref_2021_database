@@ -174,7 +174,7 @@ VALUES
 (10007138, 'University of Northampton, The', 1, 2),
 (10001282, 'University of Northumbria at Newcastle', 1, 4),
 (10004775, 'Norwich University of the Arts', 1, 1),
-(10004790, 'Nottingham Trent University', 1, 2),
+(10004797, 'Nottingham Trent University', 1, 2),
 (10007154, 'University of Nottingham, The', 1, 2),
 (10007773, 'The Open University', 1, 6),
 (10007774, 'University of Oxford', 1, 6),
